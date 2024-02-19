@@ -18,7 +18,7 @@ public class ChallengeDateTest {
         date2.month = 8;
         date2.year = 2001;
 
-        System.out.printf("Date 1 -> %02d/%02d/%d\n", date1.day, date1.month, date1.year);
-        System.out.printf("Date 2 -> %02d/%02d/%d\n", date2.day, date2.month, date2.year);
+        System.out.printf("Date 1 -> %s\n", date1.getFormattedDate());
+        System.out.printf("Date 2 -> %s\n", date2.getFormattedDate());
     }
 }

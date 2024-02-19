@@ -1,8 +1,8 @@
  /*
  * Title: Challenge Date
  * 
- * Description: Create a simple class with just the declaration of the attributes
- *              necessary to compose a date.
+ * Description (Lecture 94): Create a simple class with just the declaration of 
+ *                           the attributes necessary to compose a date.
  * 
  * Section: 05 
  * Lecture: 94 
